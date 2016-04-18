@@ -1,0 +1,17 @@
+{
+    "name": "boviq/boviq-theme-haritha",
+    "description": "Boviq theme with a greenish color palette.",
+    "keywords": ["boviq", "theme", "green"],
+    "license": "GPL-3.0",
+    "type": "project",
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/framework": "5.2.*",
+        "zurb/foundation-sites": "6.2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Boviq\\Theme\\Haritha": "src/"
+        }
+    }
+}

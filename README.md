@@ -1,2 +1,2 @@
 # Haritha - Boviq Theme
-Boviq theme with a greenish color pallette.
+Boviq theme with a greenish color palette.
