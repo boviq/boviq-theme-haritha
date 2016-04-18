@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Boviq\\Theme\\Haritha": "src/"
+            "Boviq\\Theme\\Haritha\\": "src/"
         }
     }
 }
